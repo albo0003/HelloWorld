@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class BankApp2 {
     public static void main(String[] args) {
         Account a1 = new Account( "Joe Pass", 2.5);
-        Account a2 = new Account( "Jimi Hendrix", 2.5);
+        Account a2 = new Account( "Jimi Hendrixxx", 2.5);
 
         a1.deposit(200);
         a1.deposit(1000);
